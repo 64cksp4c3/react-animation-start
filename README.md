@@ -1,3 +1,4 @@
+A tiny clean start project with react, typescript, css module, scss, react-spring and leva.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
